@@ -3,8 +3,8 @@ import styled from "styled-components";
 import Scroll from "react-scroll-component";
 
 const Info = styled.div`
-  background-color: rgba(80, 80, 100, 0.2);
-  color: #666;
+  background-color: rgba(80, 80, 100, 0.5);
+  color: #c3c9c9;
   padding: 20px;
   display: flex;
   flex-direction: column;
